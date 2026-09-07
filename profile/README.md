@@ -10,5 +10,5 @@ Fun fact:
 I also make and edit videos. Pretty fun if you ask, which I'm sure you did. Everyone does.
 
 Another fun fact:
--# I'm outside your window.
+<sub> I'm outside your window.</sub>
 I like making stuff but procrastinate making that one thing. I also burn out very quick.
