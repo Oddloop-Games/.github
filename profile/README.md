@@ -1,7 +1,7 @@
 <h1 align="center">Oddloop Games</h1>
 Coincidentally, I don't plan on making odd loops. Just kidding.
 <br><br>
-![VSauce "or am I?"](https://media.tenor.com/KV09FA01QB4AAAAM/creepy-vsauce.gif)
+![VSauce GIF](https://media.tenor.com/KV09FA01QB4AAAAM/creepy-vsauce.gif)
 <br><br>
 Anyway, none of these games are meant to be public and advertised unless I worked my hardest on it. Which is impractical, being that I don't plan on working super hard on these.
 <br><br>
